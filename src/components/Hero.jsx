@@ -198,7 +198,7 @@ const Container = styled.div`
   align-items: flex-start;
   flex-direction: column;
   justify-content: space-between;
-  background: url("/images/bgImg.jpg") center/cover no-repeat;
+  background: url("images/bgImg.jpg") center/cover no-repeat;
 
   &::before {
     content: "";

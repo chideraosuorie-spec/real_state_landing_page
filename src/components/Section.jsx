@@ -17,7 +17,7 @@ function Section() {
     <Container>
       <FirstContent>
         <ImageWrapper>
-          <img src="/images/selfImage.png" alt="An Image Of My Self" />
+          <img src="images/selfImage.png" alt="An Image Of My Self" />
         </ImageWrapper>
         <ContentWrapper>
           <About>
